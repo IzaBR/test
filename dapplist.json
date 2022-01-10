@@ -5,7 +5,7 @@
     "connectLink": "https://app.dehive.finance/",
     "buttonColor": "#3F3F4B",
     "chainIds": [1, 56, 100, 137],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dehive.svg",
+    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/stakewise.svg",
     "longName": "DeHive DeFi Protocol",
     "explainerTitle": "Maximise DeFi profits",
     "explainerText": "",
