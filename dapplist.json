@@ -1,12 +1,12 @@
 [
   {
-    "shortName": "DeHive test changes",
+    "shortName": "DeHive",
     "subtitle": "Well-Balanced Crypto Indexes",
     "connectLink": "https://app.dehive.finance/",
     "buttonColor": "#3F3F4B",
     "chainIds": [1, 56, 100, 137],
     "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dehive.svg",
-    "longName": "DeHive DeFi Protocol",
+    "longName": "DeHive DeFi Protocol  test changes  test changes",
     "explainerTitle": "Maximise DeFi profits",
     "explainerText": "",
     "explainerStepByStep": [],
