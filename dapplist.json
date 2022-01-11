@@ -260,7 +260,7 @@
     "explainerTitle": "",
     "explainerText": "",
     "explainerStepByStep": [],
-    "sponsored": 0,
+    "sponsored": 5,
     "sponsoredChainId": 0
   },
   {
@@ -298,7 +298,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": 0,
+    "sponsored": 4,
     "sponsoredChainId": 0
   },
   {
