@@ -5,7 +5,7 @@
     "connectLink": "https://app.dehive.finance/",
     "buttonColor": "#3F3F4B",
     "chainIds": [1, 56, 100, 137],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/",
+    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dehive.svg",
     "longName": "DeHive DeFi Protocol",
     "explainerTitle": "Maximise DeFi profits",
     "explainerText": "",
@@ -57,7 +57,7 @@
     "connectLink": "https://app.superfluid.finance/dashboard",
     "buttonColor": "#C9C8D3",
     "chainIds": [100, 137],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/",
+    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/superfluid.svg",
     "longName": "Superfluid Dashboard",
     "explainerTitle": "Manage streamable tokens",
     "explainerText": "Handle subscriptions, salaries, rewards and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency.",
@@ -67,7 +67,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": 2,
+    "sponsored": 0,
     "sponsoredChainId": 0
   },
   {
@@ -154,7 +154,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": 1,
+    "sponsored": 0,
     "sponsoredChainId": 0
   },
   {
@@ -173,7 +173,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": 3,
+    "sponsored": 0,
     "sponsoredChainId": 0
   },
   {
@@ -260,7 +260,7 @@
     "explainerTitle": "",
     "explainerText": "",
     "explainerStepByStep": [],
-    "sponsored": 5,
+    "sponsored": 0,
     "sponsoredChainId": 0
   },
   {
@@ -298,7 +298,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": 4,
+    "sponsored": 0,
     "sponsoredChainId": 0
   },
   {
