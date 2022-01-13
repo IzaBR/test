@@ -196,27 +196,6 @@
     "sponsoredChainId": 0
   },
   {
-    "shortName": "1inch",
-    "subtitle": "DEX Aggregator Service",
-    "connectLink": "https://app.1inch.io/",
-    "buttonColor": "#192951",
-    "chainIds": [1, 10, 56, 137, 42161],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/1inch.svg",
-    "longName": "1inch DEX Aggregator",
-    "explainerTitle": "High capital efficient DeFi protocols",
-    "explainerText": "DeFi / DEX aggregator with the most liquidity and the best rates on Ethereum, Binance Smart Chain, Optimism, Polygon, 1inch dApp is an entry point to the 1inch Network's tech.",
-    "explainerStepByStep": [
-      "Tap \"Connect Wallet\"",
-      "Accept  Terms of Service & Privacy Policy",
-      "Choose Network",
-      "Choose \"WalletConnect\"",
-      "Tap \"Connect\" and select \"Minerva Wallet\"",
-      "Choose preferred account and tap \"Connect\""
-    ],
-    "sponsored": 0,
-    "sponsoredChainId": 0
-  },
-  {
     "shortName": "CowSwap",
     "subtitle": "DEX Aggregator Service",
     "connectLink": "https://cowswap.exchange",
