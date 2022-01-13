@@ -1,19 +1,5 @@
 [
   {
-    "shortName": "DeHive",
-    "subtitle": "Well-Balanced Crypto Indexes",
-    "connectLink": "https://app.dehive.finance/",
-    "buttonColor": "#3F3F4B",
-    "chainIds": [1, 56, 100, 137],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dehive.svg",
-    "longName": "DeHive DeFi Protocol",
-    "explainerTitle": "Maximise DeFi profits",
-    "explainerText": "",
-    "explainerStepByStep": [],
-    "sponsored": 0,
-    "sponsoredChainId": 0
-  },
-  {
     "shortName": "StakeWise",
     "subtitle": "ETH 2.0 Staking Service",
     "connectLink": "https://stakewise.io/app/pool",
