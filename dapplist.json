@@ -1,24 +1,5 @@
 [
   {
-    "shortName": "StakeWise",
-    "subtitle": "ETH 2.0 Staking Service",
-    "connectLink": "https://stakewise.io/app/pool",
-    "buttonColor": "#4B4FAB",
-    "chainIds": [1],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/stakewise.svg",
-    "longName": "StakeWise ETH 2.0 Staking",
-    "explainerTitle": "Earn rewards from staking Ether",
-    "explainerText": "By depositing ETH into StakeWise, you will participate in Ethereum 2.0's Proof-of-Stake consensus mechanism (staking) and receive ETH rewards in return.",
-    "explainerStepByStep": [
-      "Tap \"Connect Wallet\" in options menu",
-      "Choose \"WalletConnect\"",
-      "Tap \"Connect\" and select \"Minerva Wallet\"",
-      "Choose preferred account and tap \"Connect\""
-    ],
-    "sponsored": 0,
-    "sponsoredChainId": 1
-  },
-  {
     "shortName": "Honeyswap",
     "subtitle": "Decentralized Exchange",
     "connectLink": "https://app.honeyswap.org/",
