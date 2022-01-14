@@ -1,6 +1,6 @@
 [
   {
-    "shortName": "Honeyswap",
+    "shortName": "Honeyswap super loooooooooong name Honeyswap looooong naaaaame",
     "subtitle": "Decentralized Exchange",
     "connectLink": "https://app.honeyswap.org/",
     "buttonColor": "#FFAA00",
@@ -16,7 +16,7 @@
       "Choose preferred account and tap \"Connect\""
     ],
     "sponsored": 0,
-    "sponsoredChainId": 0
+    "sponsoredChainId": 100
   },
   {
     "shortName": "Superfluid",
@@ -35,7 +35,7 @@
       "Choose preferred account and tap \"Connect\""
     ],
     "sponsored": 2,
-    "sponsoredChainId": 0
+    "sponsoredChainId": 137
   },
   {
     "shortName": "Eporio",
