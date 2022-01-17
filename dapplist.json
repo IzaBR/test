@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "dapps": [
     {
-      "shortName": "xPollinate",
+      "shortName": "ollinate",
       "subtitle": "Cross-Chain Transfer",
       "connectLink": "https://xpollinate.io/",
       "buttonColor": "#5C5D6D",
@@ -12,7 +12,7 @@
       "explainerTitle": "Token transfer between chains",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 0,
+      "sponsored": 4,
       "sponsoredChainId": 0
     },
     {
