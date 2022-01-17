@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.12",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -273,7 +273,7 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "2inch",
+      "shortName": "1inch",
       "subtitle": "DEX Aggregator Service",
       "connectLink": "https://app.1inch.io/",
       "buttonColor": "#192951",
