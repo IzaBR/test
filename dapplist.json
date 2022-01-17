@@ -2,7 +2,7 @@
   "version": "0.0.2",
   "dapps": [
     {
-      "shortName": "ollinate",
+      "shortName": "xPollinate",
       "subtitle": "Cross-Chain Transfer",
       "connectLink": "https://xpollinate.io/",
       "buttonColor": "#5C5D6D",
